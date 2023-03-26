@@ -1,3 +1,2 @@
 This is a simple text file.
 Line added in dev branch.
-L3
