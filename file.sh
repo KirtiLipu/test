@@ -1,5 +1,16 @@
 #!/bin/bash
 
+#..........
+#Author : Kirtiranjan Sahoo
+#Date: 30/11/2023
+
+#Description: Here is how to write the shell script"
+#
+#Usage: 
+# ./file.sh parm1
+#...........
+#Version: 2.0.1
+
 read -p "Please enter a filename to search in the current directory: " FILE
 
 echo "The file name you entered is: $FILE"
