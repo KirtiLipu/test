@@ -18,7 +18,7 @@ echo "The file name you entered is: $FILE"
 if [ -e $FILE ]; then
     echo "File Exist"
 else
-    echi "File doesn't exist"
+    echo "File doesn't exist"
 fi
 
 echo "This is end of the shell script"
