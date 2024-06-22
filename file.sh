@@ -22,3 +22,6 @@ else
 fi
 
 echo "This is end of the shell script"
+
+
+#EOF
