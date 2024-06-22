@@ -1,6 +1,0 @@
-This is a simple text file.
-Line added in dev branch.
-steps are added into the new stash branch
-This is the bug fix in development branch
-This is advancement of previous feature
-Feature 2 is completed and ready for release
